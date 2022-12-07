@@ -1,5 +1,5 @@
 
-NaturalLanguageForm
+Natural Language Form
 =========
 
 An experimental form that uses natural language instead of the usual form layout. Values are entered using custom input elements.
